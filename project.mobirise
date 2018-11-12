@@ -3,7 +3,7 @@
     "name": "Shoto Do website",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 23,
+    "uniqCompNum": 29,
     "versionPublish": "4.8.7",
     "theme": {
       "name": "mobirise4",
@@ -45,7 +45,7 @@
       "settings": {
         "main": true,
         "title": "Shotodo Home",
-        "meta_descr": "Shoto Do  website\nהגנה עצמית\nאומניות לחימה\nספורט\nקרב מגע\nג'ו ג'יטסו\n",
+        "meta_descr": "Shoto Do  website\nשיטת שוטו דו היא אומנות לחימה מבוססת מציאות ששמה דגש על מצבי רחוב והגנה עצמית\nבסיטואציות יומיומיות.\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -647,6 +647,32 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "blockTitle": "promotion",
+            "HTMLCode": "<a align=\"left\"  href=\"https://www.banggood.com/collection-3444.html?utm_campaign=outdoor512&p=DJ3100153983201303UK&custlinkid=464\" target=\"_blank\"><img src=\"https://img.staticbg.com/deals/affiliate_member_banner/41bacf567aefc61b3076c74d8925128f64.jpg\" /></a>",
+            "ExtEdit": true,
+            "paddingTop": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#149dcc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "promotion",
+          "HTMLCode": "<a align=\"left\"  href=\"https://www.banggood.com/collection-3444.html?utm_campaign=outdoor512&p=DJ3100153983201303UK&custlinkid=464\" target=\"_blank\"><img src=\"https://img.staticbg.com/deals/affiliate_member_banner/41bacf567aefc61b3076c74d8925128f64.jpg\" /></a>",
+          "tinyeditor": "<script src='https://cdn.tinymce.com/4/tinymce.min.js'></script><script>tinymce.init({selector:'.tiny', inline: true, plugins: ['advlist autolink lists link image media charmap print preview anchor','searchreplace visualblocks code fullscreen','insertdatetime table contextmenu paste code textcolor colorpicker textpattern'],  toolbar1: 'insertfile undo redo | styleselect | bold italic forecolor backcolor | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image media | code',});</script>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-s"
         }
       ]
     }
