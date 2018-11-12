@@ -647,22 +647,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "_customHTML": "<a href=\"https://www.banggood.com/collection-6655.html?utm_design=32&p=DJ3100153983201303UK&custlinkid=476\" target=\"_blank\"><img src=\"https://img.staticbg.com/deals/affiliate_member_banner/1021707194b6d060f75860a9fa6b73a222.jpg\" /></a>",
-            "_customCSS": "",
-            "ExtEdit": false
-          },
-          "_customHTML": "<a href=\"https://www.banggood.com/collection-6655.html?utm_design=32&p=DJ3100153983201303UK&custlinkid=476\" target=\"_blank\"><img src=\"https://img.staticbg.com/deals/affiliate_member_banner/1021707194b6d060f75860a9fa6b73a222.jpg\" /></a>",
-          "_customCSS": "",
-          "tinyeditor": "",
-          "alias": "deltapieditor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-t"
         }
       ]
     }
