@@ -34,11 +34,18 @@
         "#82d6f2"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo2-128x130.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-no-name-128x130.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://www.shotodo.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
