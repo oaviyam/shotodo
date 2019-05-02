@@ -1691,6 +1691,18 @@ body {
 .cid-rmtQrIOCIB textarea.form-control {
   min-height: 188px;
 }
+.cid-rpk1T5ZnyS {
+  background: #ffffff;
+}
+.cid-rpk1T5ZnyS .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rpk1T5ZnyS .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qQ3lW0Sydi {
   padding-top: 60px;
   padding-bottom: 60px;
