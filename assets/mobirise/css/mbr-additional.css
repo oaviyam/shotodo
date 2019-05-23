@@ -1660,7 +1660,7 @@ body {
 .cid-rr0CzInJfg {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/oded-header-2-1140x261.jpg");
+  background-image: url("../../../assets/images/oded-header-3-1140x261.jpg");
 }
 .cid-rr0CE7QXgL {
   padding-top: 45px;
@@ -1673,6 +1673,7 @@ body {
 }
 .cid-rr0CE7QXgL .mbr-text P {
   text-align: right;
+  color: #232323;
 }
 .cid-rr0CGgFjSe {
   padding-top: 30px;
@@ -1693,6 +1694,10 @@ body {
   color: #767676;
   text-align: right;
 }
+.cid-rr0CGgFjSe .mbr-text DIV {
+  text-align: right;
+  color: #232323;
+}
 .cid-rr0CwcnH6n {
   padding-top: 30px;
   padding-bottom: 60px;
@@ -1710,6 +1715,10 @@ body {
 }
 .cid-rr0CwcnH6n .mbr-text {
   color: #767676;
+}
+.cid-rr0CwcnH6n .mbr-text DIV {
+  text-align: right;
+  color: #232323;
 }
 .cid-rr1zb3B4n9 {
   padding-top: 30px;
