@@ -1512,50 +1512,6 @@ body {
     width: 100% !important;
   }
 }
-.cid-rri3NtEhU1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rri3NtEhU1 .card-img {
-  background-color: #fff;
-}
-.cid-rri3NtEhU1 .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-rri3NtEhU1 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rri3NtEhU1 p {
-  text-align: left;
-}
-.cid-rri3NtEhU1 .mbr-text {
-  color: #767676;
-  text-align: right;
-}
-.cid-rri3NtEhU1 .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rri3NtEhU1 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-rri3NtEhU1 .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
-.cid-rri3NtEhU1 .card-title DIV {
-  text-align: right;
-}
 .cid-qQ3lW0Sydi {
   padding-top: 60px;
   padding-bottom: 60px;
