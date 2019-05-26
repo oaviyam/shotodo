@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 52,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.1",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,9 +51,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Shotodo Home",
+        "title": "שוטודו - הדרך הבסיסית",
         "meta_descr": "Shoto Do  website\nשוטודו\nשיטת שוטו דו היא אומנות לחימה מבוססת מציאות ששמה דגש על מצבי רחוב והגנה עצמית\nבסיטואציות יומיומיות.\n",
-        "header_custom": "",
+        "header_custom": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script>\n  (adsbygoogle = window.adsbygoogle || []).push({\n    google_ad_client: \"ca-pub-4370394190544201\",\n    enable_page_level_ads: true\n  });\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
