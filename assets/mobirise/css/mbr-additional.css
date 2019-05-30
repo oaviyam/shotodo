@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 .form-control,
 .form-control:focus {
@@ -1718,17 +1718,22 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/oded-header-3-1140x261.jpg");
 }
-.cid-rr0CE7QXgL {
-  padding-top: 45px;
-  padding-bottom: 15px;
+.cid-rrWHtwOlFA {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rr0CE7QXgL .mbr-text,
-.cid-rr0CE7QXgL blockquote {
-  color: #767676;
+@media (min-width: 992px) {
+  .cid-rrWHtwOlFA .mbr-figure {
+    padding-left: 4rem;
+  }
 }
-.cid-rr0CE7QXgL .mbr-text P {
-  text-align: right;
+@media (max-width: 992px) {
+  .cid-rrWHtwOlFA .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rrWHtwOlFA .mbr-text {
   color: #232323;
 }
 .cid-rrW1l4Zgyi {
