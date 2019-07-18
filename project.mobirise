@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Shoto Do website",
-    "currentPage": "oded.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 58,
-    "versionPublish": "4.10.1",
+    "versionPublish": "4.10.5",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -132,38 +132,6 @@
           "_anchor": "form1-y",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "background": "@bgColor",
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(45deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video2",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://www.youtube.com/watch?v=Gehl6dxV4S0&loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "rpk1T5ZnyS",
-          "_anchor": "video2-u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -626,11 +594,11 @@
           "_name": "content7",
           "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\" checked> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><div style=\"direction: rtl;\"><span style=\"font-size: 1.2rem;\"><b>סנסאי עודד אביים חגורה שחורה דאן 1 בג'ו ג'יטסו&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1.2rem;\"><b>מפתח שיטת שוטודו הדרך הבסיסית.&nbsp;</b></span></div>\n<div style=\"direction: rtl;\"><b><br></b></div><div style=\"direction: rtl;\"><span style=\"font-size: 1.2rem;\"><b>עוסק באומנויות לחימה משנת 2003,  התאמן במגוון שיטות לחימה כגון ג'ודו, ג'ו ג'יטסו, אגרוף תאילנדי, ארניס ועוד.</b></span></div></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/1010222-10152152895036026-3777296175389485370-n-436x436.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rrWHtwOlFA",
+          "_anchor": "content7-1l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-1l"
+          "_params": {}
         },
         {
           "alias": false,
@@ -678,11 +646,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\">  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/img-739-436x291.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>שאפתי לפתח שיטה רעננה וישומית להגנה עצמית לכל אדם.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>אחד העקרונות שמנחים את השיטה היא הסדר הלוגי שלה או במילים אחרות פעולה/תגובה, לכל התקפה יש מענה בעל סדר פעולות אפשרי שנלמד, כך שלכל מצב יש מענה.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>עצם הידיעה כבר מעניקה תחושת ביטחון למתאמנים.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>בנוסף לעובדה שאין צורך בכוח פיזי רב או בטכניקות מורכבות מאפשרת הצלחה לכולם.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>את האימונים אני מעביר בהדרגה כאשר כל מתאמן עובד לפי סרגל יכולות ומאמצים המותאמים לו אישית בהתאם לגילו ומצבו הגופני.&nbsp;</b></span></div></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rrW1l4Zgyi",
+          "_anchor": "content6-1j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-1j"
+          "_params": {}
         },
         {
           "alias": false,
@@ -729,11 +697,11 @@
           "_name": "content7",
           "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\" checked> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>עוד על עודד..&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>ביום יום סנסאי עודד מנהל בהי טק&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>ונהנה מאתגרי התיכנות בעבודותו.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>ממשיך לפתח את שיטת השוטודו מתוך חשיבה על חשיבות החיבור בין גוף נפש לוגיקה ותנועה.&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>היה ספורטאי חובב כל חיו&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>מטיפוס בולדרים דרך איגרוף תאילנד&nbsp;</b></span></div><div style=\"direction: rtl;\"><span style=\"font-size: 1rem;\"><b>ועד גלישה,חתירה וריצה.</b></span></div></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/office-workout-1-436x245.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rrW23uEIBg",
+          "_anchor": "content7-1k",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-1k"
+          "_params": {}
         },
         {
           "alias": false,
