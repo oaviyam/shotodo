@@ -45,7 +45,15 @@
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "PWA": {
+      "enabled": true,
+      "name": "Shotodo",
+      "icon": "@PROJECT_PATH@/assets/images/logo-512x512.png",
+      "themeColor": "#149dcc"
+    },
+    "google-analytics": "",
+    "pwa-switcher": "on"
   },
   "pages": {
     "index.html": {
